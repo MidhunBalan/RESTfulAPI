@@ -48,6 +48,7 @@ There are two types of resource URI are available
 Identifies the Specific instance of a resource
 2. Collection Resource URI
 Represent a collection of resources
+
 Query parameter for pagination and filtering collection
 What is the use of Query parameter : For example, if you are fetching a lots of data at time, for example, fetching number of n number of messages, the client no need that much data and they just want to see the latest updates, then just go for Query parameters or else to fetch data based on the date range or for pagination purpose and all, we can go for query parameter.
 

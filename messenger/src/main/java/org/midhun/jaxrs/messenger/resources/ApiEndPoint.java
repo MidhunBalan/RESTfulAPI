@@ -6,7 +6,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 @Path("messages")
-public class MessageResources {
+public class ApiEndPoint {
 	
 	@GET
 	@Produces(MediaType.TEXT_PLAIN)
